@@ -43,7 +43,7 @@ This repository contains a comprehensive suite of projects developed as part of 
 
 ## Technologies
 
-- **Programming Languages:** Python, C++
+- **Programming Languages:** Python
 - **Libraries & Frameworks:** TensorFlow, PyTorch, Scikit-Learn, OpenCV, MediaPipe, NumPy, Pandas, Matplotlib, Seaborn, Flask, Django
 - **Algorithms:** A* Pathfinding, Breadth-First Search (BFS), Probabilistic Modeling, Convolutional Neural Networks (CNNs)
 
