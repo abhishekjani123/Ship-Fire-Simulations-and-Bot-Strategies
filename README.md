@@ -18,7 +18,7 @@ This repository contains a comprehensive suite of projects developed as part of 
     1. **Static BFS Bot:** Computes a single optimal path without accounting for fire dynamics.  
     2. **Adaptive BFS Bot:** Recalculates the shortest path at every step to avoid active fire zones.  
     3. **Enhanced BFS Bot:** Extends the adaptive approach by also avoiding cells adjacent to fires.  
-    4. **Adaptive A* Bot:** Utilizes an A* algorithm with a custom heuristic that balances distance and fire risk.
+    4. **Adaptive** **A*** **Bot:** Utilizes an A* algorithm with a custom heuristic that balances distance and fire risk.
   
 - **Performance Evaluation:**  
   - Conducted 10 fire spread scenarios with 100 trials each.  
