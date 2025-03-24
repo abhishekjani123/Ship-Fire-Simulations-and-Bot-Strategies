@@ -8,7 +8,7 @@ This repository contains a comprehensive suite of projects developed as part of 
 
 ## Overview
 
-### Ship Fire Simulation & Bot Strategies
+### Project 1: Ship Fire Simulation & Bot Strategies
 - **Simulation Environment:**  
   - Created a 40×40 grid-based model of a spaceship with randomly distributed obstacles and dynamic fire sources.  
   - Incorporated a fire spread mechanism with adjustable flammability parameters to simulate unpredictable, hazardous conditions.
@@ -24,7 +24,7 @@ This repository contains a comprehensive suite of projects developed as part of 
   - Conducted 10 fire spread scenarios with 100 trials each.  
   - Achieved up to a 40% reduction in failure rates using adaptive strategies versus static pathfinding.
 
-### Space Rats – Probabilistic Localization & Pathfinding
+### Project 2: Space Rats – Probabilistic Localization & Pathfinding
 - **Sensor-Based Localization:**  
   - Engineered a sensor-driven 30×30 grid model to generate probability distributions for the target ("space rat") location.  
   - Implemented digital signatures for each open cell to uniquely identify and track potential target positions.
@@ -33,7 +33,7 @@ This repository contains a comprehensive suite of projects developed as part of 
   - Developed advanced navigation algorithms that leverage real-time sensor feedback and probability grids.  
   - Reduced the number of bot actions by 59–79% compared to baseline pathfinding methods.
 
-### Predicting Steps to Locate the Space Rat
+### Project 3: Predicting Steps to Locate the Space Rat
 - **Data Collection & Modeling:**  
   - Gathered extensive simulation data, including ship layouts, probability grids, and step counts needed to capture the target.
   
