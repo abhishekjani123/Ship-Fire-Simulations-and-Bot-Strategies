@@ -6,7 +6,7 @@
 
 This repository contains a comprehensive suite of projects developed as part of the Intro to Artificial Intelligence (CS 520) course at Rutgers University. The projects simulate a realistic spaceship environment to evaluate various bot strategies under dynamic, hazardous conditions. The work integrates simulation techniques, probabilistic modeling, advanced pathfinding algorithms, and deep learning to address complex navigation and target localization challenges.
 
-## Overview
+## Overview of the Projects:
 
 ### Project 1: Ship Fire Simulation & Bot Strategies
 - **Simulation Environment:**  
